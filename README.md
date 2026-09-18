@@ -24,7 +24,7 @@ Im Rahmen dieses Projekts lernen Sie die Grundlagen von maschinellem Lernen kenn
 
 ### Genomik
  Hier ist ein Notebook zum Verständnis von Genomen :
-2) Genomik: Wir werden die Studie von Genomik entdecken, Gene in einem Genom finden, Genteile erkennen. Hier werden wir individuelle Krebsgene studieren: Genfunktionen, wo in der Zelle sie arbeiten, falls sie zu den anderen Genen binden, was für Krankheiten ihre Mutationen verursachen. Letztens werden wir diese Gene und ihre Mutationen in Genen visualisieren. Hier ist [der Arbeitslauf]
+2) Genomik: Wir werden die Studie von Genomik entdecken, Gene in einem Genom finden, Genteile erkennen. Hier werden wir individuelle Krebsgene studieren: Genfunktionen, wo in der Zelle sie arbeiten, falls sie zu den anderen Genen binden, was für Krankheiten ihre Mutationen verursachen. Letztens werden wir diese Gene und ihre Mutationen in Genen visualisieren. Hier ist der Arbeitslauf: https://github.com/tbilgin/Krebsgenomik/blob/main/Krebsgen_Analyse.md 
 
 ### LLM's:
 
