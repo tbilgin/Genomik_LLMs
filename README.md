@@ -33,14 +33,12 @@ Hier ist eine schöne Visualisierung: https://albatrossrna.org
 
 ### genomische LLM's:
 
-Hier sind vier Notebooks im Google Colab. Die werden euch helfen, um über genomische LLM's zu lernen: 
+Hier sind drei Notebooks im Google Colab. Die werden euch helfen, um über genomische LLM's zu lernen. Please make your own copies and play with the notebooks below.
 
-https://colab.research.google.com/drive/1R5lriN2-NxDpSi5qq8-z3g8Ls5lFFeQh
-https://colab.research.google.com/github/meghegde/genomic-llms-in-practice/blob/main/Guided%20Hands-On/2_1_Pretrained_gLLMs.ipynb
-https://colab.research.google.com/drive/1UW7r2PDL9Ijq6D5HTf3exwQmsDsFBcdi
-
-https://colab.research.google.com/drive/1Bbx9vOIGzAWt2EWuG2QWcgM3-ulljrkp#scrollTo=3a5ac0e2
-
+1) Introduction to Huggingface for genomic LLMs: https://colab.research.google.com/drive/1R5lriN2-NxDpSi5qq8-z3g8Ls5lFFeQh?usp=sharing
+2) DNABert foundation model in genomic LLMs: https://colab.research.google.com/drive/1UW7r2PDL9Ijq6D5HTf3exwQmsDsFBcdi?usp=sharing
+3) Embeddings and token importance: https://colab.research.google.com/drive/1Bbx9vOIGzAWt2EWuG2QWcgM3-ulljrkp?usp=sharing
+   
 
 
 Bitte erstellen Sie eine Kopie dieses Notizbuchs in Ihrem eigenen Google Drive. Diese Datei kann nicht bearbeitet werden, aber Ihre eigene Datei können Sie bearbeiten. Ich empfehle Ihnen, sich vor dem Start ein Video zur Verwendung von Google Collab anzusehen. Einige praktische Informationen: Jede Zelle enthält entweder einen Code oder einen Text. Bitte führen Sie die Zelle aus, wenn es sich um einen Code handelt. Es ist wichtig, dass Sie jeden Code ausführen, da der Rest des Codes die Ausgabe verwendet. Wie führt man einen Code in diesem Notizbuch aus? Bewegen Sie die Maus vor den Code, es erscheint ein Häkchen. Klicken Sie auf das Häkchen. Es wird grün, sobald der Befehl ausgeführt wurde.
